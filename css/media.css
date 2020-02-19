@@ -256,6 +256,22 @@
     height: 70%;
   }
   .price-btn {
+    border-radius: 3rem;
+    width: 188px;
+    height: 40px;
+    z-index: 61;
+    text-transform: uppercase;
+    color: #7b7b82;
+    transition: 0.8s;
+    font-weight: 700;
+    letter-spacing: 2px;
+  }
+  .price-btn:hover {
+    box-shadow: 0px 0px 18.69px 2.31px rgba(204, 217, 223, 0.428);
+    background-color: rgb(110, 69, 226);
+    color: #fff;
+  }
+  .price-btn {
     height: 10%;
     width: 200px;
     height: 50px;
@@ -317,6 +333,22 @@
   .price-tag img {
     width: 25%;
     height: 25%;
+  }
+  .price-btn {
+    border-radius: 3rem;
+    width: 188px;
+    height: 40px;
+    z-index: 61;
+    text-transform: uppercase;
+    color: #7b7b82;
+    transition: 0.8s;
+    font-weight: 700;
+    letter-spacing: 2px;
+  }
+  .price-btn:hover {
+    box-shadow: 0px 0px 18.69px 2.31px rgba(204, 217, 223, 0.428);
+    background-color: rgb(110, 69, 226);
+    color: #fff;
   }
   h4 {
     font-size: 25px;
